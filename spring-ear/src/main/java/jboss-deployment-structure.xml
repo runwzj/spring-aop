@@ -1,0 +1,11 @@
+<jboss-deployment-structure>
+    <ear-subdeployments-isolated>false</ear-subdeployments-isolated>
+
+	<sub-deployment name="spring-web.war">
+	    
+	</sub-deployment>
+	<sub-deployment name="spring-ejb.jar">
+	    
+	</sub-deployment>
+
+</jboss-deployment-structure>
